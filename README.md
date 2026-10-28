@@ -1,6 +1,6 @@
 ```
-Name : Arun S
-Reg-No : 212224230023
+Name : Lekshmeendhra S
+Reg-No : 212225040198
 ```
 # Exno:1
 Data Cleaning Process
